@@ -11,11 +11,11 @@
     },
     {
       "id": "22330587-c700-4d00-911d-91de63db1f42",
-      "firstName": "Dustin",
+      "firstName": "Dustin H",
       "lastName": "Stehr",
       "email": "Lue.Funk@hotmail.com",
       "jobTitle": "Legacy Infrastructure Consultant",
-      "twitter": "DustinStehr77585-9157",
+      "twitter": "DustinStehr77585-91578",
       "avatarUrl": "https://www.gravatar.com/avatar/272e74beaee600c8ab957ddee8444495?d=identicon"
     },
     {
@@ -40,7 +40,7 @@
       "id": "a6aeca9b-a7c1-45d2-b970-0121c682402a",
       "firstName": "Kelly",
       "lastName": "Corkery",
-      "email": "Van_Schimmel@yahoo.com",
+      "email": "van_Schimel@yahoo.com",
       "jobTitle": "Dynamic Tactics Liaison",
       "twitter": "KellyCorkery06275-3676",
       "avatarUrl": "https://www.gravatar.com/avatar/00e35de53a06a655fe5b6ac8b96bdb84?d=identicon"
@@ -48,7 +48,7 @@
     {
       "firstName": "Richard",
       "lastName": "Kaufman",
-      "email": "richardbkaufman@gmail.com",
+      "email": "richardbkafman@gmail.com",
       "jobTitle": "Frontend Engineer",
       "twitter": "sparragus",
       "id": "DbY1vXd"
@@ -68,6 +68,14 @@
       "jobTitle": "Super Dog",
       "twitter": "snoopysuperdog",
       "id": "Tab9I7W"
+    },
+    {
+      "firstName": "Martín",
+      "lastName": "Bove",
+      "email": "martin@fanalitica.com",
+      "jobTitle": "Full Stack Developer",
+      "twitter": "mbove77",
+      "id": "0fgT71i"
     }
   ]
 }
